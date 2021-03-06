@@ -1,0 +1,12 @@
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.csprojAssemblyReference.cache
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.csproj.CoreCompileInputs.cache
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.AssemblyInfoInputs.cache
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.AssemblyInfo.cs
+/Users/diogocezar/studies/Books/Books.Infra/bin/Debug/netstandard2.0/Books.Infra.deps.json
+/Users/diogocezar/studies/Books/Books.Infra/bin/Debug/netstandard2.0/Books.Infra.dll
+/Users/diogocezar/studies/Books/Books.Infra/bin/Debug/netstandard2.0/Books.Infra.pdb
+/Users/diogocezar/studies/Books/Books.Infra/bin/Debug/netstandard2.0/Books.Domain.dll
+/Users/diogocezar/studies/Books/Books.Infra/bin/Debug/netstandard2.0/Books.Domain.pdb
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.csproj.CopyComplete
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.dll
+/Users/diogocezar/studies/Books/Books.Infra/obj/Debug/netstandard2.0/Books.Infra.pdb

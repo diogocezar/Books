@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Clean Code",
+    "Price": 100,
+    "Category": "Computers",
+    "Author": "Robert C. Martin"
+  },
+  {
+    "Name": "Clean Code New Edition",
+    "Price": 150,
+    "Category": "Computers",
+    "Author": "Robert C. Martin"
+  }
+]

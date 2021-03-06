@@ -1,0 +1,9 @@
+/Users/diogocezar/studies/Books/Books.Domain/bin/Debug/netstandard2.0/Books.Domain.deps.json
+/Users/diogocezar/studies/Books/Books.Domain/bin/Debug/netstandard2.0/Books.Domain.dll
+/Users/diogocezar/studies/Books/Books.Domain/bin/Debug/netstandard2.0/Books.Domain.pdb
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.csprojAssemblyReference.cache
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.csproj.CoreCompileInputs.cache
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.AssemblyInfoInputs.cache
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.AssemblyInfo.cs
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.dll
+/Users/diogocezar/studies/Books/Books.Domain/obj/Debug/netstandard2.0/Books.Domain.pdb

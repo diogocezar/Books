@@ -1,0 +1,14 @@
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.csprojAssemblyReference.cache
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.csproj.CoreCompileInputs.cache
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.AssemblyInfoInputs.cache
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.AssemblyInfo.cs
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Service.deps.json
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Service.dll
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Service.pdb
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Domain.dll
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Infra.dll
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Domain.pdb
+/Users/diogocezar/studies/Books/Books.Service/bin/Debug/netstandard2.0/Books.Infra.pdb
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.csproj.CopyComplete
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.dll
+/Users/diogocezar/studies/Books/Books.Service/obj/Debug/netstandard2.0/Books.Service.pdb

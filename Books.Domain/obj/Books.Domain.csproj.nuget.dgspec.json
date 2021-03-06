@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/diogocezar/studies/Books/Books.Domain/Books.Domain.csproj": {}
+  },
+  "projects": {
+    "/Users/diogocezar/studies/Books/Books.Domain/Books.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/diogocezar/studies/Books/Books.Domain/Books.Domain.csproj",
+        "projectName": "Books.Domain",
+        "projectPath": "/Users/diogocezar/studies/Books/Books.Domain/Books.Domain.csproj",
+        "packagesPath": "/Users/diogocezar/.nuget/packages/",
+        "outputPath": "/Users/diogocezar/studies/Books/Books.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/diogocezar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
